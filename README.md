@@ -1,2 +1,2 @@
-# typescript-tut
+# Typescript-tut
 Project to understand Typescript
